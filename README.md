@@ -18,9 +18,9 @@ PyJWT
 4. Instalar Flaask: pip install Flask
 5. Instalar Dependencias (Incluidas en el archivo requirements.txt)
 6. Clona el repositorio: git clone https://github.com/YimmyVega05/project_python.git
-6. Levantar el proyecto: flask --app app --debug run
-7. Accede a la aplicación en tu navegador: http://127.0.0.1:5000
-8. Thunder Client extención en vsc para el testing de los endpoints
+7. Levantar el proyecto: flask --app app --debug run
+8. Accede a la aplicación en tu navegador: http://127.0.0.1:5000
+9. Thunder Client extención en vsc para el testing de los endpoints
 
 
 
