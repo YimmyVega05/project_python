@@ -1,4 +1,5 @@
-# Este proyecto es una API RESTful construida con Flask, SQLAlchemy y JWT (JSON Web Token) para gestionar usuarios y libros. A continuación, te explico cómo ponerlo en funcionamiento y cómo usar las rutas disponibles.
+# 
+Este proyecto es una API RESTful construida con Flask, SQLAlchemy y JWT (JSON Web Token) para gestionar usuarios y libros. A continuación, te explico cómo ponerlo en funcionamiento y cómo usar las rutas disponibles.
 
 # Requerimientos
 
